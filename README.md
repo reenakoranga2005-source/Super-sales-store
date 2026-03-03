@@ -99,3 +99,10 @@ Enables exploration from high-level summaries to detailed transactional data.
 - Office supplies category contributes maximum profit.
 - Sales peak during specific months indicating seasonality.
 Overall, the dashboard supports strategic growth, operational efficiency, and improved decision-making within the supermarket business.
+
+---
+
+## Screenshots/Demos
+
+Shows what the dashboard looks like , Example
+
