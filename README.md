@@ -1,5 +1,5 @@
 # Super sales store - Power BI Project
-##Project Title
+## Project Title
 **Super Sales Store Business Insight Dashboard**
 
 ---
