@@ -103,7 +103,7 @@ Overall, the dashboard supports strategic growth, operational efficiency, and im
 ---
 
 ## Screenshots/Demos
-## 📸 Dashboard Preview
+### 📸 Dashboard Preview
 
 ### 🔹 Super Store Sales Dashboard
 ![Super Store Sales Dashboard](Snapshot%20of%20the%20Super%20store%20sales%20Dashboard.png)
