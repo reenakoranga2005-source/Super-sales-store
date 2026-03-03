@@ -103,13 +103,13 @@ Overall, the dashboard supports strategic growth, operational efficiency, and im
 ---
 
 ## Screenshots/Demos
+## 📸 Dashboard Preview
 
 ### 🔹 Super Store Sales Dashboard
-![Super Store Sales Dashboard](https://raw.githubusercontent.com/reenakoranga2005-source/Super-sales-store/main/Snapshot%20of%20the%20Super%20store%20sales%20Dashboard.png)
+![Super Store Sales Dashboard](Snapshot%20of%20the%20Super%20store%20sales%20Dashboard.png)
 
 ---
 
 ### 🔹 Sales Forecasting Dashboard
-![Sales Forecasting Dashboard](https://raw.githubusercontent.com/reenakoranga2005-source/Super-sales-store/main/Snapshot%20of%20the%20Sales%20forecasting%20Dashboard.png)
-
+![Sales Forecasting Dashboard](Snapshot%20of%20the%20Sales%20forecasting%20Dashboard.png)
 
