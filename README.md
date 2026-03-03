@@ -104,5 +104,7 @@ Overall, the dashboard supports strategic growth, operational efficiency, and im
 
 ## Screenshots/Demos
 
-Shows what the dashboard looks like , Example
+Shows what the dashboard looks like ,
+Example(https://github.com/reenakoranga2005-source/Super-sales-store/blob/main/Snapshot%20of%20the%20Sales%20forecasting%20Dashboard.png)
+
 
